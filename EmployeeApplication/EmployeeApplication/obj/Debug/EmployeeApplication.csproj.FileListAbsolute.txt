@@ -1,0 +1,10 @@
+D:\adrianne\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe.config
+D:\adrianne\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe
+D:\adrianne\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.pdb
+D:\adrianne\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.AssemblyReference.cache
+D:\adrianne\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.frmComputeSalary.resources
+D:\adrianne\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.Properties.Resources.resources
+D:\adrianne\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.GenerateResource.cache
+D:\adrianne\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.CoreCompileInputs.cache
+D:\adrianne\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.exe
+D:\adrianne\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.pdb
